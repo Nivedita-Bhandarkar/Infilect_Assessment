@@ -1,0 +1,250 @@
+# Created at 2020-07-14T03:16:09.895
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2020-07-14T03:16:22.264
+Unexpected IOException with stream: Retrying payment_Screen again and the count is 2
+
+
+# Created at 2020-07-14T03:16:22.292
+Unexpected IOException: 9,1,Assessment.Infilect.WeatherShopperLandingPage,payment_Screen(Assessment.Infilect.WeatherShopperLandingPage),null,Cannot locate an element using xpath=//iframe[@name='stripe_checkout_app']\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2020-07-14T03:16:22.293
+Unexpected IOException: 5,1,Assessment.Infilect.WeatherShopperLandingPage,payment_Screen(Assessment.Infilect.WeatherShopperLandingPage),Assessment.Infilect.WeatherShopperLandingPage,null,null
+
+
+# Created at 2020-07-14T03:16:26.301
+Unexpected IOException with stream: [
+
+# Created at 2020-07-14T03:16:26.302
+Unexpected IOException with stream: 1
+
+# Created at 2020-07-14T03:16:26.304
+Unexpected IOException with stream: 5
+
+# Created at 2020-07-14T03:16:26.305
+Unexpected IOException with stream: 9
+
+# Created at 2020-07-14T03:16:26.306
+Unexpected IOException with stream: 4
+
+# Created at 2020-07-14T03:16:26.308
+Unexpected IOException with stream: 6
+
+# Created at 2020-07-14T03:16:26.310
+Unexpected IOException with stream: 7
+
+# Created at 2020-07-14T03:16:26.313
+Unexpected IOException with stream: 6
+
+# Created at 2020-07-14T03:16:26.316
+Unexpected IOException with stream: 7
+
+# Created at 2020-07-14T03:16:26.318
+Unexpected IOException with stream: 8
+
+# Created at 2020-07-14T03:16:26.320
+Unexpected IOException with stream: 6
+
+# Created at 2020-07-14T03:16:26.322
+Unexpected IOException with stream: .
+
+# Created at 2020-07-14T03:16:26.323
+Unexpected IOException with stream: 3
+
+# Created at 2020-07-14T03:16:26.324
+Unexpected IOException with stream: 0
+
+# Created at 2020-07-14T03:16:26.326
+Unexpected IOException with stream: 0
+
+# Created at 2020-07-14T03:16:26.327
+Unexpected IOException with stream: ]
+
+# Created at 2020-07-14T03:16:26.328
+Unexpected IOException with stream: [
+
+# Created at 2020-07-14T03:16:26.329
+Unexpected IOException with stream: W
+
+# Created at 2020-07-14T03:16:26.331
+Unexpected IOException with stream: A
+
+# Created at 2020-07-14T03:16:26.332
+Unexpected IOException with stream: R
+
+# Created at 2020-07-14T03:16:26.334
+Unexpected IOException with stream: N
+
+# Created at 2020-07-14T03:16:26.336
+Unexpected IOException with stream: I
+
+# Created at 2020-07-14T03:16:26.338
+Unexpected IOException with stream: N
+
+# Created at 2020-07-14T03:16:26.339
+Unexpected IOException with stream: G
+
+# Created at 2020-07-14T03:16:26.340
+Unexpected IOException with stream: ]
+
+# Created at 2020-07-14T03:16:26.341
+Unexpected IOException with stream: :
+
+# Created at 2020-07-14T03:16:26.343
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T03:16:26.344
+Unexpected IOException with stream: T
+
+# Created at 2020-07-14T03:16:26.345
+Unexpected IOException with stream: i
+
+# Created at 2020-07-14T03:16:26.346
+Unexpected IOException with stream: m
+
+# Created at 2020-07-14T03:16:26.348
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T03:16:26.350
+Unexpected IOException with stream: d
+
+# Created at 2020-07-14T03:16:26.351
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T03:16:26.352
+Unexpected IOException with stream: o
+
+# Created at 2020-07-14T03:16:26.353
+Unexpected IOException with stream: u
+
+# Created at 2020-07-14T03:16:26.355
+Unexpected IOException with stream: t
+
+# Created at 2020-07-14T03:16:26.356
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T03:16:26.358
+Unexpected IOException with stream: c
+
+# Created at 2020-07-14T03:16:26.359
+Unexpected IOException with stream: o
+
+# Created at 2020-07-14T03:16:26.360
+Unexpected IOException with stream: n
+
+# Created at 2020-07-14T03:16:26.362
+Unexpected IOException with stream: n
+
+# Created at 2020-07-14T03:16:26.364
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T03:16:26.365
+Unexpected IOException with stream: c
+
+# Created at 2020-07-14T03:16:26.366
+Unexpected IOException with stream: t
+
+# Created at 2020-07-14T03:16:26.367
+Unexpected IOException with stream: i
+
+# Created at 2020-07-14T03:16:26.367
+Unexpected IOException with stream: n
+
+# Created at 2020-07-14T03:16:26.368
+Unexpected IOException with stream: g
+
+# Created at 2020-07-14T03:16:26.369
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T03:16:26.370
+Unexpected IOException with stream: t
+
+# Created at 2020-07-14T03:16:26.371
+Unexpected IOException with stream: o
+
+# Created at 2020-07-14T03:16:26.372
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T03:16:26.373
+Unexpected IOException with stream: C
+
+# Created at 2020-07-14T03:16:26.374
+Unexpected IOException with stream: h
+
+# Created at 2020-07-14T03:16:26.375
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T03:16:26.376
+Unexpected IOException with stream: o
+
+# Created at 2020-07-14T03:16:26.377
+Unexpected IOException with stream: m
+
+# Created at 2020-07-14T03:16:26.377
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T03:16:26.377
+Unexpected IOException with stream: ,
+
+# Created at 2020-07-14T03:16:26.378
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T03:16:26.379
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T03:16:26.379
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T03:16:26.380
+Unexpected IOException with stream: t
+
+# Created at 2020-07-14T03:16:26.380
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T03:16:26.381
+Unexpected IOException with stream: y
+
+# Created at 2020-07-14T03:16:26.381
+Unexpected IOException with stream: i
+
+# Created at 2020-07-14T03:16:26.382
+Unexpected IOException with stream: n
+
+# Created at 2020-07-14T03:16:26.383
+Unexpected IOException with stream: g
+
+# Created at 2020-07-14T03:16:26.384
+Unexpected IOException with stream: .
+
+# Created at 2020-07-14T03:16:26.385
+Unexpected IOException with stream: .
+
+# Created at 2020-07-14T03:16:26.386
+Unexpected IOException with stream: .
+
+# Created at 2020-07-14T03:16:26.389
+Unexpected IOException with stream: 
+
+# Created at 2020-07-14T03:16:26.391
+Unexpected IOException with stream: 
+
+
+# Created at 2020-07-14T03:16:34.321
+Unexpected IOException: 8,1,Assessment.Infilect.WeatherShopperLandingPage,payment_Screen(Assessment.Infilect.WeatherShopperLandingPage),null,chrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:1762}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 77d5b737923e7c6f0ae3edac225fcbda\000A*** Element info: {Using=xpath\002C value=//iframe[@name='stripe_checkout_app']},null,chrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:1762}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 77d5b737923e7c6f0ae3edac225fcbda\000A*** Element info: {Using=xpath\002C value=//iframe[@name='stripe_checkout_app']},WeatherShopperLandingPage.payment_Screen:187 \00BB WebDriver chrome not reachable\000A...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:1762}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 77d5b737923e7c6f0ae3edac225fcbda\000A*** Element info: {Using=xpath\002C value=//iframe[@name='stripe_checkout_app']}\000A\0009at Assessment.Infilect.WeatherShopperLandingPage.payment_Screen(WeatherShopperLandingPage.java:187)\000A
+
+
+# Created at 2020-07-14T03:16:34.572
+Unexpected IOException: 8,1,Assessment.Infilect.WeatherShopperLandingPage,close_Driver(Assessment.Infilect.WeatherShopperLandingPage),null,chrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:1762}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 77d5b737923e7c6f0ae3edac225fcbda,null,chrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:1762}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 77d5b737923e7c6f0ae3edac225fcbda,WeatherShopperLandingPage.close_Driver:203 \00BB WebDriver chrome not reachable\000A  ...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:1762}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 77d5b737923e7c6f0ae3edac225fcbda\000A\0009at Assessment.Infilect.WeatherShopperLandingPage.close_Driver(WeatherShopperLandingPage.java:203)\000A
+
+
+# Created at 2020-07-14T03:16:34.724
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

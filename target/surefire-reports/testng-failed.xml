@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Assessment.Infilect.RetryListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="Assessment.Infilect.WeatherShopperLandingPage">
+        <methods>
+          <include name="driver_Intialization"/>
+          <include name="payment_Screen" invocation-numbers="0"/>
+          <include name="close_Driver"/>
+          <include name="get_Temperature_information"/>
+          <include name="Validate_shopping_Page"/>
+          <include name="validate_Shopping_cart"/>
+        </methods>
+      </class> <!-- Assessment.Infilect.WeatherShopperLandingPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

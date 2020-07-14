@@ -1,0 +1,219 @@
+# Created at 2020-07-14T02:49:28.263
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2020-07-14T02:49:49.637
+Unexpected IOException with stream: [
+
+# Created at 2020-07-14T02:49:49.880
+Unexpected IOException with stream: 1
+
+# Created at 2020-07-14T02:49:49.881
+Unexpected IOException with stream: 5
+
+# Created at 2020-07-14T02:49:49.882
+Unexpected IOException with stream: 9
+
+# Created at 2020-07-14T02:49:49.882
+Unexpected IOException with stream: 4
+
+# Created at 2020-07-14T02:49:49.883
+Unexpected IOException with stream: 6
+
+# Created at 2020-07-14T02:49:49.884
+Unexpected IOException with stream: 7
+
+# Created at 2020-07-14T02:49:49.885
+Unexpected IOException with stream: 5
+
+# Created at 2020-07-14T02:49:49.888
+Unexpected IOException with stream: 1
+
+# Created at 2020-07-14T02:49:49.889
+Unexpected IOException with stream: 8
+
+# Created at 2020-07-14T02:49:49.890
+Unexpected IOException with stream: 9
+
+# Created at 2020-07-14T02:49:49.891
+Unexpected IOException with stream: .
+
+# Created at 2020-07-14T02:49:49.892
+Unexpected IOException with stream: 6
+
+# Created at 2020-07-14T02:49:49.893
+Unexpected IOException with stream: 3
+
+# Created at 2020-07-14T02:49:49.894
+Unexpected IOException with stream: 4
+
+# Created at 2020-07-14T02:49:49.895
+Unexpected IOException with stream: ]
+
+# Created at 2020-07-14T02:49:49.896
+Unexpected IOException with stream: [
+
+# Created at 2020-07-14T02:49:49.898
+Unexpected IOException with stream: S
+
+# Created at 2020-07-14T02:49:49.899
+Unexpected IOException with stream: E
+
+# Created at 2020-07-14T02:49:49.900
+Unexpected IOException with stream: V
+
+# Created at 2020-07-14T02:49:49.901
+Unexpected IOException with stream: E
+
+# Created at 2020-07-14T02:49:49.903
+Unexpected IOException with stream: R
+
+# Created at 2020-07-14T02:49:49.904
+Unexpected IOException with stream: E
+
+# Created at 2020-07-14T02:49:49.907
+Unexpected IOException with stream: ]
+
+# Created at 2020-07-14T02:49:49.908
+Unexpected IOException with stream: :
+
+# Created at 2020-07-14T02:49:49.910
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T02:49:49.911
+Unexpected IOException with stream: U
+
+# Created at 2020-07-14T02:49:49.911
+Unexpected IOException with stream: n
+
+# Created at 2020-07-14T02:49:49.913
+Unexpected IOException with stream: a
+
+# Created at 2020-07-14T02:49:49.913
+Unexpected IOException with stream: b
+
+# Created at 2020-07-14T02:49:49.914
+Unexpected IOException with stream: l
+
+# Created at 2020-07-14T02:49:49.915
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:49.915
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T02:49:49.916
+Unexpected IOException with stream: t
+
+# Created at 2020-07-14T02:49:49.917
+Unexpected IOException with stream: o
+
+# Created at 2020-07-14T02:49:49.918
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T02:49:49.923
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T02:49:49.924
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:49.925
+Unexpected IOException with stream: c
+
+# Created at 2020-07-14T02:49:49.927
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:49.929
+Unexpected IOException with stream: i
+
+# Created at 2020-07-14T02:49:49.932
+Unexpected IOException with stream: v
+
+# Created at 2020-07-14T02:49:49.937
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:49.940
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T02:49:49.943
+Unexpected IOException with stream: m
+
+# Created at 2020-07-14T02:49:49.947
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:50.126
+Unexpected IOException with stream: s
+
+# Created at 2020-07-14T02:49:50.127
+Unexpected IOException with stream: s
+
+# Created at 2020-07-14T02:49:50.128
+Unexpected IOException with stream: a
+
+# Created at 2020-07-14T02:49:50.129
+Unexpected IOException with stream: g
+
+# Created at 2020-07-14T02:49:50.130
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:50.131
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T02:49:50.132
+Unexpected IOException with stream: f
+
+# Created at 2020-07-14T02:49:50.133
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T02:49:50.134
+Unexpected IOException with stream: o
+
+# Created at 2020-07-14T02:49:50.136
+Unexpected IOException with stream: m
+
+# Created at 2020-07-14T02:49:50.138
+Unexpected IOException with stream:  
+
+# Created at 2020-07-14T02:49:50.139
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T02:49:50.140
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:50.142
+Unexpected IOException with stream: n
+
+# Created at 2020-07-14T02:49:50.143
+Unexpected IOException with stream: d
+
+# Created at 2020-07-14T02:49:50.144
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:50.145
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T02:49:50.146
+Unexpected IOException with stream: e
+
+# Created at 2020-07-14T02:49:50.147
+Unexpected IOException with stream: r
+
+# Created at 2020-07-14T02:49:50.147
+Unexpected IOException with stream: 
+
+# Created at 2020-07-14T02:49:50.148
+Unexpected IOException with stream: 
+
+
+# Created at 2020-07-14T02:49:53.779
+Unexpected IOException: 8,1,Assessment.Infilect.WeatherShopperLandingPage,close_Driver(Assessment.Infilect.WeatherShopperLandingPage),null,chrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:11219}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 5ec8b14fc2832fe9deae35b989c7e9ed,null,chrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:11219}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 5ec8b14fc2832fe9deae35b989c7e9ed,WeatherShopperLandingPage.close_Driver:203 \00BB WebDriver chrome not reachable\000A  ...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=83.0.4103.116)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-HD2RSVAT'\002C ip: '192.168.29.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.116\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005Csishu\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:11219}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 5ec8b14fc2832fe9deae35b989c7e9ed\000A\0009at Assessment.Infilect.WeatherShopperLandingPage.close_Driver(WeatherShopperLandingPage.java:203)\000A
+
+
+# Created at 2020-07-14T02:49:54.232
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

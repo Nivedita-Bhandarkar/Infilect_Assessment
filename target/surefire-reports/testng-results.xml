@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-14T08:37:46Z" name="Suite" finished-at="2020-07-14T08:38:15Z" duration-ms="28477">
+    <groups>
+    </groups>
+    <test started-at="2020-07-14T08:37:46Z" name="Test" finished-at="2020-07-14T08:38:15Z" duration-ms="28477">
+      <class name="Assessment.Infilect.WeatherShopperLandingPage">
+        <test-method is-config="true" signature="driver_Intialization()[pri:0, instance:Assessment.Infilect.WeatherShopperLandingPage@16ecee1]" started-at="2020-07-14T08:37:46Z" name="driver_Intialization" finished-at="2020-07-14T08:37:53Z" duration-ms="6691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_Intialization -->
+        <test-method signature="get_Temperature_information()[pri:0, instance:Assessment.Infilect.WeatherShopperLandingPage@16ecee1]" started-at="2020-07-14T08:37:53Z" name="get_Temperature_information" finished-at="2020-07-14T08:37:55Z" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Temperature_information -->
+        <test-method signature="Validate_shopping_Page()[pri:0, instance:Assessment.Infilect.WeatherShopperLandingPage@16ecee1]" started-at="2020-07-14T08:37:55Z" name="Validate_shopping_Page" finished-at="2020-07-14T08:38:06Z" depends-on-methods="Assessment.Infilect.WeatherShopperLandingPage.get_Temperature_information" duration-ms="10387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_shopping_Page -->
+        <test-method signature="validate_Shopping_cart()[pri:0, instance:Assessment.Infilect.WeatherShopperLandingPage@16ecee1]" started-at="2020-07-14T08:38:06Z" name="validate_Shopping_cart" finished-at="2020-07-14T08:38:06Z" depends-on-methods="Assessment.Infilect.WeatherShopperLandingPage.Validate_shopping_Page" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Shopping_cart -->
+        <test-method signature="payment_Screen(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assessment.Infilect.WeatherShopperLandingPage@16ecee1]" started-at="2020-07-14T08:38:06Z" name="payment_Screen" data-provider="data" finished-at="2020-07-14T08:38:14Z" depends-on-methods="Assessment.Infilect.WeatherShopperLandingPage.validate_Shopping_cart" duration-ms="7876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4242424242424242]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0221]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[560066]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment_Screen -->
+        <test-method is-config="true" signature="close_Driver()[pri:0, instance:Assessment.Infilect.WeatherShopperLandingPage@16ecee1]" started-at="2020-07-14T08:38:14Z" name="close_Driver" finished-at="2020-07-14T08:38:15Z" duration-ms="806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Driver -->
+      </class> <!-- Assessment.Infilect.WeatherShopperLandingPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
